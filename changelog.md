@@ -1,3 +1,4 @@
 - Update Driver GPU to 800.40
 - Update Driver GPU to 800.46
 - Update Driver GPU version to 800.51
+- Update Driver GPU version to 800.55
